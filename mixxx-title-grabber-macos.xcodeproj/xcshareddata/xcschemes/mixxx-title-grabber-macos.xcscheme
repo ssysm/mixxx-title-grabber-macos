@@ -73,6 +73,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Mixxx Title Grabber"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
